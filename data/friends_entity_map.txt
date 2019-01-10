@@ -399,3 +399,15 @@
 398	Yamaguchi
 399	Yasmine Blepe
 400	Young Ethan
+401	Photographer
+402	James Brolin
+403	Barbara Streisand
+404	Ed Begley Jr.
+405	Bandleader
+406	Mona
+407	Molly Gilbert
+408	Nora Tyler Bing
+409	Dennis Phillips
+410	Little Girl
+411	Second Girl
+412	Gert
