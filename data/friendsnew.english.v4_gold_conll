@@ -1,4 +1,4 @@
-#begin document (/friends-s08_e01); part000
+#begin document (/friends-s08_e01); part 000
 /friends-s08_e01	0	0	Great	NNP	*	Great	-	-	Photographer	*	121704	125140	f001.pickle	-
 /friends-s08_e01	0	1	.	.	*	.	-	-	Photographer	*	121704	125140	f001.pickle	-
 
@@ -433,7 +433,7 @@
 /friends-s08_e01	0	7	!	.	*	!	-	-	Phoebe_Buffay	*	247931	249922	f001.pickle	-
 
 #end document
-#begin document (/friends-s08_e01); part001
+#begin document (/friends-s08_e01); part 001
 /friends-s08_e01	1	0	Why	WRB	*	why	-	-	Photographer	*	251868	255235	f001.pickle	-
 /friends-s08_e01	1	1	do	VBP	*	do	-	-	Photographer	*	251868	255235	f001.pickle	-
 /friends-s08_e01	1	2	n't	RB	*	not	-	-	Photographer	*	251868	255235	f001.pickle	-
@@ -604,7 +604,7 @@
 /friends-s08_e01	1	1	?!	SYM	*	?!	-	-	Phoebe_Buffay	*	NOTIME	NOTIME	f001.pickle	-
 
 #end document
-#begin document (/friends-s08_e01); part002
+#begin document (/friends-s08_e01); part 002
 /friends-s08_e01	2	0	Thank	VB	*	thank	-	-	Bandleader	*	343826	345487	f001.pickle	-
 /friends-s08_e01	2	1	you	PRP	*	you	-	-	Bandleader	*	343826	345487	f001.pickle	-
 /friends-s08_e01	2	2	very	RB	*	very	-	-	Bandleader	*	343826	345487	f001.pickle	-
@@ -2029,7 +2029,7 @@
 /friends-s08_e01	2	12	.	.	*	.	-	-	Rachel_Green	*	849265	852393	f001.pickle	-
 
 #end document
-#begin document (/friends-s08_e01); part003
+#begin document (/friends-s08_e01); part 003
 /friends-s08_e01	3	0	Well	RB	*	well	-	-	Phoebe_Buffay	*	856138	861007	f001.pickle	-
 /friends-s08_e01	3	1	,	,	*	,	-	-	Phoebe_Buffay	*	856138	861007	f001.pickle	-
 /friends-s08_e01	3	2	I	PRP	*	I	-	-	Phoebe_Buffay	*	856138	861007	f001.pickle	(292)
@@ -3414,7 +3414,7 @@
 /friends-s08_e01	3	4	.	.	*	.	-	-	Jack_Geller	*	1367916	1369440	f001.pickle	-
 
 #end document
-#begin document (/friends-s08_e01); part004
+#begin document (/friends-s08_e01); part 004
 /friends-s08_e01	4	0	How	WRB	*	how	-	-	Rachel_Green	*	1403118	1404304	f001.pickle	-
 /friends-s08_e01	4	1	much	RB	*	much	-	-	Rachel_Green	*	1403118	1404304	f001.pickle	-
 /friends-s08_e01	4	2	longer	RBR	*	longer	-	-	Rachel_Green	*	1403118	1404304	f001.pickle	-
@@ -3754,7 +3754,7 @@
 /friends-s08_e01	4	8	.	.	*	.	-	-	Rachel_Green	*	1556262	1558839	f001.pickle	-
 
 #end document
-#begin document (/friends-s08_e01); part005
+#begin document (/friends-s08_e01); part 005
 /friends-s08_e01	5	0	I	PRP	*	I	-	-	Ross_Geller	*	1566681	1569844	f001.pickle	(335)
 /friends-s08_e01	5	1	just	RB	*	just	-	-	Ross_Geller	*	1566681	1569844	f001.pickle	-
 /friends-s08_e01	5	2	did	VBD	*	do	-	-	Ross_Geller	*	1566681	1569844	f001.pickle	-

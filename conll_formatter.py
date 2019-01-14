@@ -21,7 +21,7 @@ def generate_conll_data(raw_script):
     conll_datas = []
     for scene_count,scene in enumerate(raw_script['scenes']):
         doc_id = '/friends-' + TARGET_EPISODE_ID
-        conll_datas.append('#begin document ({}); part00{}\n'.format(doc_id,str(scene_count)))
+        conll_datas.append('#begin document ({}); part 00{}\n'.format(doc_id,str(scene_count)))
         for ut_count, utter in enumerate(scene['utterances']):
             speaker_list = utter['speakers']
             text = utter['transcript']
